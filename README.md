@@ -23,4 +23,7 @@ https://zf6ppsrmh7.execute-api.us-east-1.amazonaws.com/prod/
 
 https://3m5aixmhzk.execute-api.us-east-1.amazonaws.com/prod/hi
 
+## DyanamoDB
+https://console.aws.amazon.com/dynamodbv2/home?region=us-east-1#item-explorer?initialTagKey=&table=Deploy-WebService-HelloHitCounterHits7AAEBF80-1H5O4EL2V63PY
+
 
