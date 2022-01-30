@@ -16,3 +16,8 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
  ## Pipeline 
  https://console.aws.amazon.com/codesuite/codepipeline/pipelines/WorkshopPipeline/view?region=us-east-1 
+
+
+## api and hit endpoint
+https://3m5aixmhzk.execute-api.us-east-1.amazonaws.com/prod/hi
+https://zf6ppsrmh7.execute-api.us-east-1.amazonaws.com/prod/
