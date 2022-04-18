@@ -36,6 +36,4 @@ https://3m5aixmhzk.execute-api.us-east-1.amazonaws.com/prod/hi
 https://console.aws.amazon.com/dynamodbv2/home?region=us-east-1#item-explorer?initialTagKey=&table=Deploy-WebService-HelloHitCounterHits7AAEBF80-1H5O4EL2V63PY
 
 
-Git url : https://crowleymaritime.visualstudio.com/Enterprise/_git/cdk-aws-typescript-example 
-
 
