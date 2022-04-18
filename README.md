@@ -1,5 +1,14 @@
 # Welcome to your CDK TypeScript project!
 
+## Objective of this project 
+
+* Create new CDK applications.
+* Define your app’s infrastructure using the AWS Construct Library
+* Deploy your CDK apps to your AWS account
+* Define your own reusable constructs
+* Consume constructs published by other people
+
+
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`CdkWorkshopTsStack`)
 which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
 
