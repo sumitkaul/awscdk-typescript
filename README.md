@@ -23,6 +23,8 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
  * `cdk diff`        compare deployed stack with current state
  * `cdk synth`       emits the synthesized CloudFormation template
 
+ ## Use dev account for this demo
+ 
  ## Pipeline 
  https://console.aws.amazon.com/codesuite/codepipeline/pipelines/WorkshopPipeline/view?region=us-east-1 
 
